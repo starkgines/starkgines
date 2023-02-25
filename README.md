@@ -1,10 +1,32 @@
 <h1 align="center">Hi 👋, I'm Carlos Silva</h1>
-<h3 align="center">I am a data scientist with a passion for artificial intelligence and gaming.</h3>
+<h2 align="center">I am a data scientist with a passion for artificial intelligence and gaming.</h3>
 
+----
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+
+    def __init__(self):
+
+        self.name = "Carlos Silva"
+        self.role = "Data Scientist"
+        self.language_spoken = ["es_ES", "en_US"]
+
+    def say_hi(self):
+
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+if __name__ == "__main__":
+
+    me = SoftwareEngineer()
+    me.say_hi()
+```
 # 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-ginés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-ginés" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-ginés/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-ginés" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/stark.02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stark.02/" height="30" width="40" /></a>
 </p>
 
