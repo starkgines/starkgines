@@ -35,15 +35,13 @@ if __name__ == "__main__":
 
 ---
 
-<div> 
-<p ><img style="margin-bottom: 100px;margin-right: 12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkgines&show_icons=true&locale=en&layout=compact&card_width=500px&card_height=500px" alt="starkgines"   />
+
+<p ><img style="margin-bottom: 100px;margin-right: 12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkgines&show_icons=true&locale=en&layout=compact&card_width=500px" alt="starkgines"   />
 </p>
 
-<p  ><img tyle="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=starkgines&&card_height=500px" alt="starkgines"/></p>
-
-
+<p  ><img tyle="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=starkgines&&" alt="starkgines"/></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12160404385&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&with=500px)](https://spotify-github-profile.vercel.app/api/view?uid=12160404385&redirect=true)
 
-</div>
+
 
