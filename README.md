@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Silva</h1>
 <h2 align="center">I am a data scientist with a passion for artificial intelligence and gaming.</h3>
 
-----
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
