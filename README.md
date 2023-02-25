@@ -39,9 +39,7 @@ if __name__ == "__main__":
 <p ><img style="margin-bottom: 100px;margin-right: 12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkgines&show_icons=true&locale=en&layout=compact&card_width=500px&card_height=500px" alt="starkgines"   />
 </p>
 
-
-
-<p  ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=starkgines&&card_height=500px" alt="starkgines"/></p>
+<p  ><img tyle="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=starkgines&&card_height=500px" alt="starkgines"/></p>
 
 
 
